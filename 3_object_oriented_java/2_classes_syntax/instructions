@@ -1,0 +1,18 @@
+Classes: Syntax
+One fundamental concept of object-oriented programming in Java is the class.
+
+A class is a set of instructions that describe how a data structure should behave.
+
+Java provides us with its own set of pre-defined classes, but we are also free to create our own custom classes.
+
+Classes in Java are created as follows:
+
+//Create a custom Car class
+
+class Car {
+
+}
+The example above creates a class named Car. We will define the behavior of the Car data structure in the next exercise.
+Instructions
+1.
+In the code editor, create a Dog class. Use the example above to help you. For now, you can ignore the line(s) of code at the bottom. We will return to it later in this lesson.
